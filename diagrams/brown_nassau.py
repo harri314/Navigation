@@ -22,7 +22,26 @@
 # python
 # matplotlib
 #
-# tested with python 2.7.6, matplotlib 1.3.1 on ubuntu 14.04.1
+# Tested with python 2.7.6, matplotlib 1.3.1 on ubuntu 14.04.1
+#
+# The Brown-Nassau Spherical Computer is a device for graphically
+# solving the astronomical triangle, i.e., for transforming from
+# azimuthal coordinates to equatorial coordinates. It can be used for
+# star identification or sight planning and reduction in celestial
+# navigation, among others.
+#
+# Descriptions of it can be found in the following:
+#
+# O. E. Brown and J. J. Nassau, A Navigation Computer, The American
+# Mathematical Monthly, Vol. 54, No. 8 (Oct., 1947), pp. 453-458.
+#
+# John Lyukx, The Brown-Nassau Spherical Computer, Navigator's
+# Newsletter, issue 62, 1998-1999, pp. 12-15. (available online at
+# http://www.starpath.com/foundation/newsletter.htm)
+#
+# The Smithsonian Institution has an example with a photograph at
+# http://collections.si.edu/search/results.htm?q=record_ID%3Anasm_A19700379000&repo=DPLA
+
 
 #############################################################################
 
